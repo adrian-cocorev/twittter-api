@@ -1,0 +1,16 @@
+﻿-----------START LOG MESSAGE-------------
+LOG DATE: 05.05.2017 21:50:04
+[Classifier.Evidence.Ctor] Creating evidence instance for Positive
+---------------END LOG MESSAGE----------------
+-----------START LOG MESSAGE-------------
+LOG DATE: 05.05.2017 21:50:08
+Loading evidence cache from C:\Users\\Mihai\Google Drive\\Documents\\GitHub-Repo\\twittter-api-Tweet-1\\Repository\Positive.Evidence.csv
+---------------END LOG MESSAGE----------------
+-----------START LOG MESSAGE-------------
+LOG DATE: 05.05.2017 21:50:08
+[Classifier.Evidence.Ctor] Creating evidence instance for Negative
+---------------END LOG MESSAGE----------------
+-----------START LOG MESSAGE-------------
+LOG DATE: 05.05.2017 21:50:08
+Loading evidence cache from C:\Users\\Mihai\Google Drive\\Documents\\GitHub-Repo\\twittter-api-Tweet-1\\Repository\Negative.Evidence.csv
+---------------END LOG MESSAGE----------------
