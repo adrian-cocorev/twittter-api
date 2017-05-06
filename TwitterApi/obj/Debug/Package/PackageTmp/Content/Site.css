@@ -22,3 +22,22 @@ select,
 textarea {
     max-width: 280px;
 }
+
+#tweetsAndSentiments li {
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+#tweetsAndSentiments ul {
+    width: 100%;
+}
+
+.section-loading {
+    display: none;
+}
+
+.devider {
+    height: 1px;
+    background: #3f5364;
+    margin: 0 15px;
+}

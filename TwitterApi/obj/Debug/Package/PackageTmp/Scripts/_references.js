@@ -5,3 +5,4 @@
 /// <reference path="jquery.validate.unobtrusive.js" />
 /// <reference path="bootstrap.js" />
 /// <reference path="respond.js" />
+/// <reference path="app.js" />

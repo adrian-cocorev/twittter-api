@@ -18,6 +18,69 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="bin/Autofac.dll">
       <publishTime>04/25/2017 08:27:18</publishTime>
     </File>
+    <File Include="bin/IKVM.AWT.WinForms.dll">
+      <publishTime>04/26/2017 23:31:39</publishTime>
+    </File>
+    <File Include="bin/IKVM.OpenJDK.Beans.dll">
+      <publishTime>04/26/2017 23:31:39</publishTime>
+    </File>
+    <File Include="bin/IKVM.OpenJDK.Charsets.dll">
+      <publishTime>04/26/2017 23:31:39</publishTime>
+    </File>
+    <File Include="bin/IKVM.OpenJDK.Corba.dll">
+      <publishTime>04/26/2017 23:31:39</publishTime>
+    </File>
+    <File Include="bin/IKVM.OpenJDK.Core.dll">
+      <publishTime>04/26/2017 23:31:39</publishTime>
+    </File>
+    <File Include="bin/IKVM.OpenJDK.Jdbc.dll">
+      <publishTime>04/26/2017 23:31:39</publishTime>
+    </File>
+    <File Include="bin/IKVM.OpenJDK.Management.dll">
+      <publishTime>04/26/2017 23:31:39</publishTime>
+    </File>
+    <File Include="bin/IKVM.OpenJDK.Media.dll">
+      <publishTime>04/26/2017 23:31:39</publishTime>
+    </File>
+    <File Include="bin/IKVM.OpenJDK.Misc.dll">
+      <publishTime>04/26/2017 23:31:39</publishTime>
+    </File>
+    <File Include="bin/IKVM.OpenJDK.Naming.dll">
+      <publishTime>04/26/2017 23:31:39</publishTime>
+    </File>
+    <File Include="bin/IKVM.OpenJDK.Remoting.dll">
+      <publishTime>04/26/2017 23:31:39</publishTime>
+    </File>
+    <File Include="bin/IKVM.OpenJDK.Security.dll">
+      <publishTime>04/26/2017 23:31:39</publishTime>
+    </File>
+    <File Include="bin/IKVM.OpenJDK.SwingAWT.dll">
+      <publishTime>04/26/2017 23:31:40</publishTime>
+    </File>
+    <File Include="bin/IKVM.OpenJDK.Text.dll">
+      <publishTime>04/26/2017 23:31:40</publishTime>
+    </File>
+    <File Include="bin/IKVM.OpenJDK.Util.dll">
+      <publishTime>04/26/2017 23:31:40</publishTime>
+    </File>
+    <File Include="bin/IKVM.OpenJDK.XML.API.dll">
+      <publishTime>04/26/2017 23:31:40</publishTime>
+    </File>
+    <File Include="bin/IKVM.Runtime.dll">
+      <publishTime>04/26/2017 23:31:41</publishTime>
+    </File>
+    <File Include="bin/IKVM.Runtime.JNI.dll">
+      <publishTime>04/26/2017 23:31:41</publishTime>
+    </File>
+    <File Include="bin/Logger.exe">
+      <publishTime>05/06/2017 16:35:03</publishTime>
+    </File>
+    <File Include="bin/Logger.exe.config">
+      <publishTime>05/05/2017 21:49:43</publishTime>
+    </File>
+    <File Include="bin/Logger.pdb">
+      <publishTime>05/06/2017 16:35:03</publishTime>
+    </File>
     <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
       <publishTime>04/25/2017 08:27:18</publishTime>
     </File>
@@ -35,6 +98,18 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     </File>
     <File Include="bin/Newtonsoft.Json.dll">
       <publishTime>04/25/2017 08:27:18</publishTime>
+    </File>
+    <File Include="bin/NLPToolkit.dll">
+      <publishTime>05/06/2017 16:35:03</publishTime>
+    </File>
+    <File Include="bin/NLPToolkit.dll.config">
+      <publishTime>04/26/2017 23:31:41</publishTime>
+    </File>
+    <File Include="bin/NLPToolkit.pdb">
+      <publishTime>05/06/2017 16:35:03</publishTime>
+    </File>
+    <File Include="bin/opennlp.dll">
+      <publishTime>04/26/2017 23:31:41</publishTime>
     </File>
     <File Include="bin/roslyn/csc.exe">
       <publishTime>04/25/2017 08:27:18</publishTime>
@@ -71,6 +146,15 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     </File>
     <File Include="bin/roslyn/VBCSCompiler.exe.config">
       <publishTime>04/25/2017 08:27:18</publishTime>
+    </File>
+    <File Include="bin/SentimentClassifier.exe">
+      <publishTime>05/06/2017 17:32:40</publishTime>
+    </File>
+    <File Include="bin/SentimentClassifier.exe.config">
+      <publishTime>05/06/2017 17:12:24</publishTime>
+    </File>
+    <File Include="bin/SentimentClassifier.pdb">
+      <publishTime>05/06/2017 17:32:40</publishTime>
     </File>
     <File Include="bin/System.Net.Http.Extensions.dll">
       <publishTime>04/25/2017 08:27:18</publishTime>
@@ -112,10 +196,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>04/25/2017 08:27:18</publishTime>
     </File>
     <File Include="bin/TwitterApi.dll">
-      <publishTime>05/05/2017 22:19:19</publishTime>
+      <publishTime>05/06/2017 17:59:03</publishTime>
     </File>
     <File Include="bin/TwitterApi.pdb">
-      <publishTime>05/05/2017 22:19:19</publishTime>
+      <publishTime>05/06/2017 17:59:03</publishTime>
     </File>
     <File Include="bin/WebGrease.dll">
       <publishTime>04/25/2017 08:27:18</publishTime>
@@ -127,7 +211,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>04/25/2017 08:27:18</publishTime>
     </File>
     <File Include="Content/Site.css">
-      <publishTime>04/25/2017 08:27:18</publishTime>
+      <publishTime>05/06/2017 22:06:18</publishTime>
     </File>
     <File Include="favicon.ico">
       <publishTime>04/25/2017 08:27:18</publishTime>
@@ -144,11 +228,17 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="fonts/glyphicons-halflings-regular.woff">
       <publishTime>04/25/2017 08:27:18</publishTime>
     </File>
+    <File Include="fonts/loader.gif">
+      <publishTime>10/11/2016 11:03:07</publishTime>
+    </File>
     <File Include="Global.asax">
       <publishTime>04/25/2017 08:27:18</publishTime>
     </File>
     <File Include="packages.config">
       <publishTime>04/25/2017 08:27:18</publishTime>
+    </File>
+    <File Include="Scripts/app.js">
+      <publishTime>05/06/2017 22:09:34</publishTime>
     </File>
     <File Include="Scripts/bootstrap.js">
       <publishTime>04/25/2017 08:27:18</publishTime>
@@ -187,7 +277,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>04/25/2017 08:27:18</publishTime>
     </File>
     <File Include="Scripts/_references.js">
-      <publishTime>04/25/2017 08:27:18</publishTime>
+      <publishTime>05/06/2017 17:00:41</publishTime>
     </File>
     <File Include="Views/Home/About.cshtml">
       <publishTime>04/25/2017 08:27:18</publishTime>
@@ -196,13 +286,13 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>04/25/2017 08:27:18</publishTime>
     </File>
     <File Include="Views/Home/Index.cshtml">
-      <publishTime>04/25/2017 08:27:18</publishTime>
+      <publishTime>05/06/2017 21:59:29</publishTime>
     </File>
     <File Include="Views/Shared/Error.cshtml">
       <publishTime>04/25/2017 08:27:18</publishTime>
     </File>
     <File Include="Views/Shared/_Layout.cshtml">
-      <publishTime>04/25/2017 08:27:18</publishTime>
+      <publishTime>05/06/2017 22:09:54</publishTime>
     </File>
     <File Include="Views/Web.config">
       <publishTime>04/25/2017 08:27:18</publishTime>
@@ -211,7 +301,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>04/25/2017 08:27:18</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>05/05/2017 22:19:20</publishTime>
+      <publishTime>05/06/2017 17:12:32</publishTime>
     </File>
   </ItemGroup>
 </Project>

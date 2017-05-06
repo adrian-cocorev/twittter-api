@@ -46,9 +46,11 @@
   <ItemGroup>
     <Compile Include="ChunkEnumerator.cs" />
     <Compile Include="Classifier.cs" />
+    <Compile Include="Controller.cs" />
     <Compile Include="Evidence.cs" />
     <Compile Include="Helpers\ClassifierHelper.cs" />
     <Compile Include="Interfaces\IEvidence.cs" />
+    <Compile Include="Models\ApiResponseModel.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

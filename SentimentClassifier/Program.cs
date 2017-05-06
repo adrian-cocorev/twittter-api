@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Configuration;
+using System.Globalization;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -21,6 +22,9 @@ namespace SentimentClassifier
             var classifier = new Classifier(positiveReviews, negativeReviews);
             var scoresNeg = classifier.Classify(testDataNeg, Helpers.ClassifierHelper.ExcludeList);
             var scoresPos = classifier.Classify(testDataPos, Helpers.ClassifierHelper.ExcludeList);
+
+            double scorePos = Convert.ToDouble(scoresNeg["Positive"].ToString());
+            double scoreNeg = Convert.ToDouble(scoresPos["Negative"].ToString());
 
             Console.WriteLine("Sentiment for negative phrase: " + testDataNeg);
             Console.WriteLine("Positive score: " + scoresNeg["Positive"]);
