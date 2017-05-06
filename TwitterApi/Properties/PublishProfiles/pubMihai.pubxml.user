@@ -196,10 +196,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>04/25/2017 08:27:18</publishTime>
     </File>
     <File Include="bin/TwitterApi.dll">
-      <publishTime>05/06/2017 17:59:03</publishTime>
+      <publishTime>05/06/2017 22:21:01</publishTime>
     </File>
     <File Include="bin/TwitterApi.pdb">
-      <publishTime>05/06/2017 17:59:03</publishTime>
+      <publishTime>05/06/2017 22:21:01</publishTime>
     </File>
     <File Include="bin/WebGrease.dll">
       <publishTime>04/25/2017 08:27:18</publishTime>
@@ -238,7 +238,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>04/25/2017 08:27:18</publishTime>
     </File>
     <File Include="Scripts/app.js">
-      <publishTime>05/06/2017 22:09:34</publishTime>
+      <publishTime>05/06/2017 22:20:53</publishTime>
     </File>
     <File Include="Scripts/bootstrap.js">
       <publishTime>04/25/2017 08:27:18</publishTime>
@@ -286,13 +286,13 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>04/25/2017 08:27:18</publishTime>
     </File>
     <File Include="Views/Home/Index.cshtml">
-      <publishTime>05/06/2017 21:59:29</publishTime>
+      <publishTime>05/06/2017 22:12:23</publishTime>
     </File>
     <File Include="Views/Shared/Error.cshtml">
       <publishTime>04/25/2017 08:27:18</publishTime>
     </File>
     <File Include="Views/Shared/_Layout.cshtml">
-      <publishTime>05/06/2017 22:09:54</publishTime>
+      <publishTime>05/06/2017 22:12:11</publishTime>
     </File>
     <File Include="Views/Web.config">
       <publishTime>04/25/2017 08:27:18</publishTime>

@@ -1,6 +1,7 @@
 ﻿function MakeSearch() {
 
     $('#tweetsAndSentiments li').remove();
+    $('#tweetsAndSentiments div').remove();
 
     $('#sectionWaiting').show();
 
