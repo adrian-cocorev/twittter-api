@@ -27,8 +27,8 @@ namespace SentimentClassifier
                 var responseModel = new ApiResponseModel()
                 {
                     Content = text,
-                    Negative = Convert.ToInt32(scorePos),
-                    Positive = Convert.ToInt32(scoreNeg)
+                    Negative = Convert.ToInt32(scoreNeg),
+                    Positive = Convert.ToInt32(scorePos)
                 };
 
                 return responseModel;
