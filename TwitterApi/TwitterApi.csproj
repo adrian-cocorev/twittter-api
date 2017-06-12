@@ -181,6 +181,7 @@
     <Content Include="Scripts\app.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
+    <None Include="Properties\PublishProfiles\Adrian.pubxml" />
     <None Include="Properties\PublishProfiles\pubMihai.pubxml" />
     <None Include="Properties\PublishProfiles\TwitterApi20170414013611.pubxml" />
     <None Include="Scripts\jquery-1.10.2-vsdoc.js" />

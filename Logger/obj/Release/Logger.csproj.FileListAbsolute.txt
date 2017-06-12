@@ -1,0 +1,12 @@
+F:\Universitate\Disertatie\twittter-api\Logger\bin\Release\Logger.exe.config
+F:\Universitate\Disertatie\twittter-api\Logger\bin\Release\Logger.exe
+F:\Universitate\Disertatie\twittter-api\Logger\bin\Release\Logger.pdb
+F:\Universitate\Disertatie\twittter-api\Logger\obj\Release\Logger.csprojResolveAssemblyReference.cache
+F:\Universitate\Disertatie\twittter-api\Logger\obj\Release\Logger.exe
+F:\Universitate\Disertatie\twittter-api\Logger\obj\Release\Logger.pdb
+E:\Universitate\Disertatie\twittter-api\Logger\bin\Release\Logger.exe.config
+E:\Universitate\Disertatie\twittter-api\Logger\bin\Release\Logger.exe
+E:\Universitate\Disertatie\twittter-api\Logger\bin\Release\Logger.pdb
+E:\Universitate\Disertatie\twittter-api\Logger\obj\Release\Logger.csprojResolveAssemblyReference.cache
+E:\Universitate\Disertatie\twittter-api\Logger\obj\Release\Logger.exe
+E:\Universitate\Disertatie\twittter-api\Logger\obj\Release\Logger.pdb

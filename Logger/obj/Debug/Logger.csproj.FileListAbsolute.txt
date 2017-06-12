@@ -10,3 +10,13 @@ C:\Users\Mihai\Google Drive\Documents\GitHub-Repo\twittter-api\Logger\bin\Debug\
 C:\Users\Mihai\Google Drive\Documents\GitHub-Repo\twittter-api\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
 C:\Users\Mihai\Google Drive\Documents\GitHub-Repo\twittter-api\Logger\obj\Debug\Logger.exe
 C:\Users\Mihai\Google Drive\Documents\GitHub-Repo\twittter-api\Logger\obj\Debug\Logger.pdb
+F:\Universitate\Disertatie\twittter-api\Logger\bin\Debug\Logger.exe.config
+F:\Universitate\Disertatie\twittter-api\Logger\bin\Debug\Logger.exe
+F:\Universitate\Disertatie\twittter-api\Logger\bin\Debug\Logger.pdb
+F:\Universitate\Disertatie\twittter-api\Logger\obj\Debug\Logger.exe
+F:\Universitate\Disertatie\twittter-api\Logger\obj\Debug\Logger.pdb
+E:\Universitate\Disertatie\twittter-api\Logger\bin\Debug\Logger.exe.config
+E:\Universitate\Disertatie\twittter-api\Logger\bin\Debug\Logger.exe
+E:\Universitate\Disertatie\twittter-api\Logger\bin\Debug\Logger.pdb
+E:\Universitate\Disertatie\twittter-api\Logger\obj\Debug\Logger.exe
+E:\Universitate\Disertatie\twittter-api\Logger\obj\Debug\Logger.pdb

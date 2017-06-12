@@ -56,7 +56,7 @@ namespace SentimentClassifier
             {
                 var score = new Dictionary<string, decimal>
                     {
-                        {_classA.Name(), (decimal) 0.0},
+                        {_classA.Name(), (decimal) 0.0},// scorul pentru stringuri cu 0.
                         {_classB.Name(), (decimal) 0.0}
                     };
                 scores.Add(score);

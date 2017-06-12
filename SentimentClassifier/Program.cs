@@ -12,13 +12,13 @@ namespace SentimentClassifier
     {
         static void Main(string[] args)
         {
-            //These evidences are used as training data for the Dragon Classigfier
+            //These evidences are used as training data for the Classifier.
             var repositoryPath = ConfigurationManager.AppSettings["EvidenceRepository"];
             var positiveReviews = new Evidence("Positive", repositoryPath + "\\Positive.Evidence.csv");
             var negativeReviews = new Evidence("Negative", repositoryPath + "\\Negative.Evidence.csv");
 
-            var testDataNeg = "Adrian is dumb as fuck."; //GetWebpageContents(url);
-            var testDataPos = "you are beautiful.";
+            var testDataNeg = "Thanks to @softescu for sponsoring again the #drupalsummer Barcelona this 2017!"; //GetWebpageContents(url);
+            var testDataPos = "Thanks to softescu for sponsoring again the drupalsummer Barcelona this 2017!";
             var classifier = new Classifier(positiveReviews, negativeReviews);
             var scoresNeg = classifier.Classify(testDataNeg, Helpers.ClassifierHelper.ExcludeList);
             var scoresPos = classifier.Classify(testDataPos, Helpers.ClassifierHelper.ExcludeList);
