@@ -1,4 +1,7 @@
-﻿function MakeSearch() {
+﻿google.charts.load('current', { packages: ['corechart', 'bar'] });
+google.charts.setOnLoadCallback(initializeChart);
+
+function MakeSearch() {
 
     $('#tweetsAndSentiments li').remove();
     $('#tweetsAndSentiments div').remove();
@@ -49,7 +52,7 @@
     });
 }
 
-function drawSentimentChart(pos, neg, chart_i) {   
+function drawSentimentChart(pos, neg, chart_i) {
 
     var data = google.visualization.arrayToDataTable([
         ['Tweet', 'Positive', 'Negative'],
@@ -58,7 +61,7 @@ function drawSentimentChart(pos, neg, chart_i) {
 
     var options = {
         title: 'Sentiment classification',
-        chartArea: { width: '50%', height: '20%'},
+        chartArea: { width: '50%', height: '20%' },
         hAxis: {
             title: '',
             minValue: 0
@@ -73,8 +76,8 @@ function drawSentimentChart(pos, neg, chart_i) {
 }
 
 function initializeChart(pos, neg, chart_i) {
-    drawSentimentChart(pos, neg, chart_i);
+    console.log(pos + ' ' + neg + ' ' + chart_i);
+    if (pos !== undefined && neg !== undefined && chart_i !== undefined) {
+         drawSentimentChart(pos, neg, chart_i);
+    }
 }
-
-google.charts.setOnLoadCallback(initializeChart);
-google.charts.load('current', { packages: ['corechart', 'bar'] });
